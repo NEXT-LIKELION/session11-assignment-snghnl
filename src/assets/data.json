@@ -1,0 +1,42 @@
+[
+    {
+        "task": "Complete project documentation",
+        "priority": "high",
+        "isDone": false
+    },
+    {
+        "task": "Buy groceries",
+        "priority": "medium",
+        "isDone": false
+    },
+    {
+        "task": "Schedule dentist appointment",
+        "priority": "low",
+        "isDone": true
+    },
+    {
+        "task": "Review pull requests",
+        "priority": "high",
+        "isDone": false
+    },
+    {
+        "task": "Call mom",
+        "priority": "medium",
+        "isDone": true
+    },
+    {
+        "task": "Update resume",
+        "priority": "high",
+        "isDone": false
+    },
+    {
+        "task": "Clean garage",
+        "priority": "low",
+        "isDone": false
+    },
+    {
+        "task": "Pay utility bills",
+        "priority": "high",
+        "isDone": true
+    }
+]
